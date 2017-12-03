@@ -1,5 +1,5 @@
 <?php
 
-Echo"Hello word"
+Echo"eita carai"
 
 ?>
